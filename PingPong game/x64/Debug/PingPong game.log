@@ -1,0 +1,12 @@
+﻿  PingPong game.cpp
+D:\PF projrct\PingPong game\PingPong game\PingPong game.cpp(29,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PF projrct\PingPong game\PingPong game\PingPong game.cpp(29,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\PF projrct\PingPong game\PingPong game\PingPong game.cpp(29,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\PF projrct\PingPong game\PingPong game\PingPong game.cpp(34,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\PF projrct\PingPong game\PingPong game\PingPong game.cpp(35,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\PF projrct\PingPong game\PingPong game\PingPong game.cpp(63,68): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PF projrct\PingPong game\PingPong game\PingPong game.cpp(132,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PF projrct\PingPong game\PingPong game\PingPong game.cpp(136,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PingPong game.vcxproj -> D:\PF projrct\PingPong game\x64\Debug\PingPong game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

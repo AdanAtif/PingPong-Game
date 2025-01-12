@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PF projrct\\PingPong game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE7D82-AB68-483A-87BF-3E283B41BA7E}|PingPong game\\PingPong game.vcxproj|D:\\PF projrct\\PingPong game\\PingPong game\\PingPong game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2DE7D82-AB68-483A-87BF-3E283B41BA7E}|PingPong game\\PingPong game.vcxproj|solutionrelative:PingPong game\\PingPong game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PingPong game.cpp",
+              "DocumentMoniker": "D:\\PF projrct\\PingPong game\\PingPong game\\PingPong game.cpp",
+              "RelativeDocumentMoniker": "PingPong game\\PingPong game.cpp",
+              "ToolTip": "D:\\PF projrct\\PingPong game\\PingPong game\\PingPong game.cpp*",
+              "RelativeToolTip": "PingPong game\\PingPong game.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T12:53:53.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
