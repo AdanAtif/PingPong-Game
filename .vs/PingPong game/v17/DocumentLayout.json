@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "PingPong game\\PingPong game.cpp",
               "ToolTip": "D:\\PF projrct\\PingPong game\\PingPong game\\PingPong game.cpp",
               "RelativeToolTip": "PingPong game\\PingPong game.cpp",
-              "ViewState": "AgIAAAwAAAAAYGZmZmb0vx0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAADgMjMzMzMbwAQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-12T12:53:53.024Z",
               "EditorCaption": ""
